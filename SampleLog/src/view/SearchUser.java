@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-public class SearchUser {
+public class SearchUser extends JPanel{
 	static JFrame frame;
 	private final static int VERTICAL_BUFFER = 20;
 	private static int frameWidth = 475;
